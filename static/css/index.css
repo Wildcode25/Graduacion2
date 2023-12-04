@@ -1,0 +1,7 @@
+.carousel-item img{
+    object-fit: cover !important;
+}
+.collapse_container{
+    position: absolute !important;
+    top: 100%;
+}
